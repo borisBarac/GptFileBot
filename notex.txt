@@ -1,0 +1,9 @@
+Hook up the agent to the vector store
+https://python.langchain.com/docs/modules/agents/how_to/agent_vectorstore
+
+Talk to a book example
+https://www.youtube.com/watch?v=h0DHDp1FbmQ
+https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Ask%20A%20Book%20Questions.ipynb
+
+How to add memory
+https://python.langchain.com/docs/modules/memory/how_to/adding_memory

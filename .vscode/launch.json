@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Streamlit",
+        "type": "python",
+        "request": "launch",
+        "program": "../FIN_BOT/fin_bot/bin/streamlit",
+        "justMyCode": true,
+        "args": [
+          "run",
+          "app.py"
+        ]
+      }
+    ]
+  }
